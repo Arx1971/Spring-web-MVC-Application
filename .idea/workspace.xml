@@ -7,8 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="842ec92a-8869-4337-ac98-0e16ded8fb55" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring/web/mvc/Controller/HelloWorldController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring/web/mvc/Controller/HelloWorldController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/helloWorld-form.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/helloWorld-form.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +62,7 @@
       <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Tomcat Server.Tomcat8.5">
     <configuration name="Tomcat8.5" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.501" ALTERNATIVE_JRE_ENABLED="false">
       <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/Spring_web_MVC_Application_war_exploded/" />
       <option name="UPDATING_POLICY" value="restart-server" />
@@ -135,6 +136,50 @@
         </option>
       </method>
     </configuration>
+    <configuration name="helloWorld-form.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 8.5.501" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/WEB-INF/view/helloWorld-form.jsp" />
+      <deployment>
+        <artifact name="Spring-web-MVC-Application:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Spring_web_MVC_Application_war" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="helloWorld-form_jsp_Spring-web-MVC-Application" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Spring-web-MVC-Application:war" />
+        </option>
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Tomcat Server.helloWorld-form.jsp" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -151,6 +196,11 @@
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
                 <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
             </expand>
             <select />
@@ -172,7 +222,7 @@
       <workItem from="1578780182457" duration="524000" />
       <workItem from="1578780907060" duration="39000" />
       <workItem from="1578781165365" duration="703000" />
-      <workItem from="1578782972211" duration="3424000" />
+      <workItem from="1578782972211" duration="4093000" />
     </task>
     <servers />
   </component>
@@ -188,53 +238,53 @@
       <screen x="28" y="0" width="1892" height="1044" />
     </state>
     <state x="569" y="186" width="804" height="681" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/28.0.1892.1044@28.0.1892.1044" timestamp="1578781542368" />
-    <state width="1504" height="274" key="GridCell.Tab.0.bottom" timestamp="1578787027389">
+    <state width="1504" height="274" key="GridCell.Tab.0.bottom" timestamp="1578790044141">
       <screen x="28" y="0" width="1892" height="1044" />
     </state>
-    <state width="1504" height="274" key="GridCell.Tab.0.bottom/28.0.1892.1044@28.0.1892.1044" timestamp="1578787027389" />
-    <state width="1504" height="274" key="GridCell.Tab.0.center" timestamp="1578787027388">
+    <state width="1504" height="274" key="GridCell.Tab.0.bottom/28.0.1892.1044@28.0.1892.1044" timestamp="1578790044141" />
+    <state width="1504" height="274" key="GridCell.Tab.0.center" timestamp="1578790044137">
       <screen x="28" y="0" width="1892" height="1044" />
     </state>
-    <state width="1504" height="274" key="GridCell.Tab.0.center/28.0.1892.1044@28.0.1892.1044" timestamp="1578787027388" />
-    <state width="1504" height="274" key="GridCell.Tab.0.left" timestamp="1578787027387">
+    <state width="1504" height="274" key="GridCell.Tab.0.center/28.0.1892.1044@28.0.1892.1044" timestamp="1578790044137" />
+    <state width="1504" height="274" key="GridCell.Tab.0.left" timestamp="1578790044136">
       <screen x="28" y="0" width="1892" height="1044" />
     </state>
-    <state width="1504" height="274" key="GridCell.Tab.0.left/28.0.1892.1044@28.0.1892.1044" timestamp="1578787027387" />
-    <state width="1504" height="274" key="GridCell.Tab.0.right" timestamp="1578787027388">
+    <state width="1504" height="274" key="GridCell.Tab.0.left/28.0.1892.1044@28.0.1892.1044" timestamp="1578790044136" />
+    <state width="1504" height="274" key="GridCell.Tab.0.right" timestamp="1578790044140">
       <screen x="28" y="0" width="1892" height="1044" />
     </state>
-    <state width="1504" height="274" key="GridCell.Tab.0.right/28.0.1892.1044@28.0.1892.1044" timestamp="1578787027388" />
-    <state width="1504" height="274" key="GridCell.Tab.1.bottom" timestamp="1578787027235">
+    <state width="1504" height="274" key="GridCell.Tab.0.right/28.0.1892.1044@28.0.1892.1044" timestamp="1578790044140" />
+    <state width="1504" height="274" key="GridCell.Tab.1.bottom" timestamp="1578790044018">
       <screen x="28" y="0" width="1892" height="1044" />
     </state>
-    <state width="1504" height="274" key="GridCell.Tab.1.bottom/28.0.1892.1044@28.0.1892.1044" timestamp="1578787027235" />
-    <state width="1504" height="274" key="GridCell.Tab.1.center" timestamp="1578787027234">
+    <state width="1504" height="274" key="GridCell.Tab.1.bottom/28.0.1892.1044@28.0.1892.1044" timestamp="1578790044018" />
+    <state width="1504" height="274" key="GridCell.Tab.1.center" timestamp="1578790044017">
       <screen x="28" y="0" width="1892" height="1044" />
     </state>
-    <state width="1504" height="274" key="GridCell.Tab.1.center/28.0.1892.1044@28.0.1892.1044" timestamp="1578787027234" />
-    <state width="1504" height="274" key="GridCell.Tab.1.left" timestamp="1578787027233">
+    <state width="1504" height="274" key="GridCell.Tab.1.center/28.0.1892.1044@28.0.1892.1044" timestamp="1578790044017" />
+    <state width="1504" height="274" key="GridCell.Tab.1.left" timestamp="1578790044016">
       <screen x="28" y="0" width="1892" height="1044" />
     </state>
-    <state width="1504" height="274" key="GridCell.Tab.1.left/28.0.1892.1044@28.0.1892.1044" timestamp="1578787027233" />
-    <state width="1504" height="274" key="GridCell.Tab.1.right" timestamp="1578787027234">
+    <state width="1504" height="274" key="GridCell.Tab.1.left/28.0.1892.1044@28.0.1892.1044" timestamp="1578790044016" />
+    <state width="1504" height="274" key="GridCell.Tab.1.right" timestamp="1578790044018">
       <screen x="28" y="0" width="1892" height="1044" />
     </state>
-    <state width="1504" height="274" key="GridCell.Tab.1.right/28.0.1892.1044@28.0.1892.1044" timestamp="1578787027234" />
-    <state width="1504" height="274" key="GridCell.Tab.2.bottom" timestamp="1578787027237">
+    <state width="1504" height="274" key="GridCell.Tab.1.right/28.0.1892.1044@28.0.1892.1044" timestamp="1578790044018" />
+    <state width="1504" height="274" key="GridCell.Tab.2.bottom" timestamp="1578790044021">
       <screen x="28" y="0" width="1892" height="1044" />
     </state>
-    <state width="1504" height="274" key="GridCell.Tab.2.bottom/28.0.1892.1044@28.0.1892.1044" timestamp="1578787027237" />
-    <state width="1504" height="274" key="GridCell.Tab.2.center" timestamp="1578787027236">
+    <state width="1504" height="274" key="GridCell.Tab.2.bottom/28.0.1892.1044@28.0.1892.1044" timestamp="1578790044021" />
+    <state width="1504" height="274" key="GridCell.Tab.2.center" timestamp="1578790044019">
       <screen x="28" y="0" width="1892" height="1044" />
     </state>
-    <state width="1504" height="274" key="GridCell.Tab.2.center/28.0.1892.1044@28.0.1892.1044" timestamp="1578787027236" />
-    <state width="1504" height="274" key="GridCell.Tab.2.left" timestamp="1578787027235">
+    <state width="1504" height="274" key="GridCell.Tab.2.center/28.0.1892.1044@28.0.1892.1044" timestamp="1578790044019" />
+    <state width="1504" height="274" key="GridCell.Tab.2.left" timestamp="1578790044019">
       <screen x="28" y="0" width="1892" height="1044" />
     </state>
-    <state width="1504" height="274" key="GridCell.Tab.2.left/28.0.1892.1044@28.0.1892.1044" timestamp="1578787027235" />
-    <state width="1504" height="274" key="GridCell.Tab.2.right" timestamp="1578787027236">
+    <state width="1504" height="274" key="GridCell.Tab.2.left/28.0.1892.1044@28.0.1892.1044" timestamp="1578790044019" />
+    <state width="1504" height="274" key="GridCell.Tab.2.right" timestamp="1578790044020">
       <screen x="28" y="0" width="1892" height="1044" />
     </state>
-    <state width="1504" height="274" key="GridCell.Tab.2.right/28.0.1892.1044@28.0.1892.1044" timestamp="1578787027236" />
+    <state width="1504" height="274" key="GridCell.Tab.2.right/28.0.1892.1044@28.0.1892.1044" timestamp="1578790044020" />
   </component>
 </project>
