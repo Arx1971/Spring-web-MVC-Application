@@ -12,7 +12,9 @@
 </head>
 <body>
 <h3>This is test page spring web mvc</h3>
-<hr>
+<br>
 <a href="home/showForm"> Hello World Form</a>
+<br>
+<a href="student/showForm"> Student Form</a>
 </body>
 </html>
