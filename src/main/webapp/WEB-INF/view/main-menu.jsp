@@ -13,6 +13,6 @@
 <body>
 <h3>This is test page spring web mvc</h3>
 <hr>
-<a href="showForm"> Hello World Form</a>
+<a href="home/showForm"> Hello World Form</a>
 </body>
 </html>
