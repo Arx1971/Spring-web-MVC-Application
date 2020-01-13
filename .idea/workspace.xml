@@ -7,7 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="842ec92a-8869-4337-ac98-0e16ded8fb55" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring/web/mvc/Controller/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring/web/mvc/Controller/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring/web/mvc/Model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring/web/mvc/Model/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/student-confirmation.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/student-confirmation.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/student-form.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/student-form.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,11 +200,6 @@
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
             </expand>
             <select />
           </treeState>
@@ -225,6 +223,7 @@
       <workItem from="1578782972211" duration="5359000" />
       <workItem from="1578815407328" duration="8194000" />
       <workItem from="1578867642450" duration="3567000" />
+      <workItem from="1578889531859" duration="482000" />
     </task>
     <servers />
   </component>
@@ -236,10 +235,10 @@
       <screen x="28" y="0" width="1892" height="1044" />
     </state>
     <state x="432" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/28.0.1892.1044@28.0.1892.1044" timestamp="1578781631527" />
-    <state x="782" y="212" width="378" height="630" key="#com.intellij.ide.util.MemberChooser" timestamp="1578868339691">
+    <state x="782" y="212" width="378" height="630" key="#com.intellij.ide.util.MemberChooser" timestamp="1578889871794">
       <screen x="28" y="0" width="1892" height="1044" />
     </state>
-    <state x="782" y="212" width="378" height="630" key="#com.intellij.ide.util.MemberChooser/28.0.1892.1044@28.0.1892.1044" timestamp="1578868339691" />
+    <state x="782" y="212" width="378" height="630" key="#com.intellij.ide.util.MemberChooser/28.0.1892.1044@28.0.1892.1044" timestamp="1578889871794" />
     <state x="569" y="186" width="804" height="681" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1578781542368">
       <screen x="28" y="0" width="1892" height="1044" />
     </state>

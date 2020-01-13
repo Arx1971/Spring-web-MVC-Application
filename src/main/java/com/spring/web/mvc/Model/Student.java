@@ -4,13 +4,14 @@ public class Student {
 
     private String firstName;
     private String lastName;
-
-    public String getFirstName() {
-        return firstName;
-    }
+    private String country;
 
     public Student() {
         // Default Constructor
+    }
+
+    public String getFirstName() {
+        return firstName;
     }
 
     public String getLastName() {
@@ -23,5 +24,13 @@ public class Student {
 
     public void setFirstName(String firstName) {
         this.firstName = firstName;
+    }
+
+    public String getCountry() {
+        return country;
+    }
+
+    public void setCountry(String country) {
+        this.country = country;
     }
 }

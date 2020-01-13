@@ -12,8 +12,8 @@
 </head>
 <body>
 
-First Name: ${student.firstName}
-Last Name: ${student.lastName}
-
+First Name: ${student.firstName} <!--spring will call student.getFirstName()-->
+Last Name: ${student.lastName}<!--spring will call student.getLastName()-->
+Country: ${student.country}<!--spring will call student.getCountry()-->
 </body>
 </html>
