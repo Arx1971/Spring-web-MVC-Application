@@ -6,7 +6,6 @@
   To change this template use File | Settings | File Templates.
 --%>
 <%@ taglib prefix="form" uri="http://www.springframework.org/tags/form" %>
-<%@ taglib prefix="from" uri="http://www.springframework.org/tags/form" %>
 <html>
 <head>
     <title>Student Registration Form</title>
@@ -33,7 +32,7 @@
 
         <%--Result Retrieve From Student Class--%>
 
-        <from:options items="${student.countryList}"/>
+        <form:options items="${student.countryList}"/>
 
 
     </form:select>
@@ -46,6 +45,13 @@
     C++ <form:radiobutton path="favoriteLanguage" value="C++"/>
     Python <form:radiobutton path="favoriteLanguage" value="Python"/>
     R <form:radiobutton path="favoriteLanguage" value="R"/>
+
+    <br><br>
+
+    Operating System:
+    Linux Ubuntu Mate <form:checkbox path="operatingSystem" value="Linux Ubuntu Mate"/>
+    Linux Ubuntu Canonical <form:checkbox path="operatingSystem" value="Linux Ubuntu Canonical"/>
+    Linux Mint<form:checkbox path="operatingSystem" value="Linux Mint"/>
 
     <input type="submit" value="Submit">
 

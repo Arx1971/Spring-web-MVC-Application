@@ -32,7 +32,7 @@
 
         <%--Result Retrieve From Student Class--%>
 
-        <from:options items="${student.countryList}"/>
+        <form:options items="${student.countryList}"/>
 
 
     </form:select>
