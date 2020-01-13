@@ -13,7 +13,11 @@
 <body>
 
 First Name: ${student.firstName} <!--spring will call student.getFirstName()-->
-Last Name: ${student.lastName}<!--spring will call student.getLastName()-->
-Country: ${student.country}<!--spring will call student.getCountry()-->
+<br><br>
+Last Name: ${student.lastName} <!--spring will call student.getLastName()-->
+<br><br>
+Country: ${student.country} <!--spring will call student.getCountry()-->
+<br><br>
+Favourite Programming Language: ${student.favoriteLanguage} <!--spring will call student.getFavoriteLanguage()-->
 </body>
 </html>
