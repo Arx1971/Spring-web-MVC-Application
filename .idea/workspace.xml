@@ -7,19 +7,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="429aee26-c401-4213-a57c-e0d3185bab2b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-web-MVC-Application.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/spring/web/mvc/Controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring/web/mvc/Controller/CustomerController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/spring/web/mvc/Model/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring/web/mvc/Model/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Spring-web-MVC-Application/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/Spring-web-MVC-Application/META-INF/MANIFEST.MF" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/Spring-web-MVC-Application/WEB-INF/classes/com/spring/web/mvc/Controller/CustomerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Spring-web-MVC-Application/WEB-INF/classes/com/spring/web/mvc/Controller/CustomerController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Spring-web-MVC-Application/WEB-INF/classes/com/spring/web/mvc/Model/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Spring-web-MVC-Application/WEB-INF/classes/com/spring/web/mvc/Model/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring-web-MVC-Application/WEB-INF/lib/spring-beans-5.2.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring-web-MVC-Application/WEB-INF/lib/spring-core-5.2.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring-web-MVC-Application/WEB-INF/lib/spring-jcl-5.2.2.RELEASE.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/spring/web/mvc/Controller/CustomerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/spring/web/mvc/Controller/CustomerController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/spring/web/mvc/Model/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/spring/web/mvc/Model/Customer.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +39,13 @@
     <option name="FILTER_INFO" value="true" />
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1WOSONy4L3sJWcfxHZ9sGKHCCR9" />
   <component name="ProjectLevelVcsManager">
@@ -153,7 +156,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579019114209</updated>
-      <workItem from="1579019115927" duration="6315000" />
+      <workItem from="1579019115927" duration="8749000" />
     </task>
     <servers />
   </component>
