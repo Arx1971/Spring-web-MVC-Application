@@ -9,10 +9,10 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @RequestMapping("/customer")
 public class CustomerController {
 
-    @RequestMapping("/process")
+    @RequestMapping("/showForm")
     public String process(Model model){
         model.addAttribute("customer", new Customer());
-        return "main-menu";
+        return "customerLogin";
     }
 
 
